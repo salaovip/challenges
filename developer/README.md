@@ -76,3 +76,18 @@ O diagrama abaixo mostra duas regiões da matriz; para cada região, as células
 	1 0 0 0     X 0 0 0
 
 A primeira região contém 5 célular e a segunda região contem 1 célula. Precisamos exibir o número de célular da maior região.
+
+
+
+### O que está sob avaliação
+
+Sua capacidade de analisar, e resolver um broblema lógico.
+
+**Tempo:**  Estima-se 4 horas para este desafio, entretanto não há um limite.
+
+**Avaliação:** Para nos enviar seu conteúdo você pode escolher uma das seguintes opções:
+
+- Compartilhar um diretório no GoogleDrive
+- Enviar um email para victor@avecbrasil.com.br com cópia para bruna.marques@avecbrasil.com.br
+
+com os arquivos criados.
