@@ -2,8 +2,8 @@
 
 Como membro da equipe de BI você foi designado a extrair algumas informações sobre o comportamento do público de um dos seguimentos dos clientes da empresa. A equipe de desenvolvimento separou dados referentes a lista de atendimentos, e do cadastro de produtos que ficam gravados no sistema e disponibilizou em 2 arquivos no formato CSV. 
 
-[Atendimentos](./data/atendimentos.csv)
-[Produtos](./data/produtos_barbearias.csv)
+- [Atendimentos](./data/atendimentos.csv)
+- [Produtos](./data/produtos_barbearias.csv)
 
 Com estes arquivos em mãos você vai precisar identificar as seguintes informações:
 
