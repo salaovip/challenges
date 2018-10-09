@@ -85,7 +85,7 @@ Sua capacidade de analisar, e resolver um broblema lógico.
 
 **Tempo:**  Estima-se 4 horas para este desafio, entretanto não há um limite.
 
-**Avaliação:** Para nos enviar seu conteúdo você pode escolher uma das seguintes opções:
+**Avaliação:** Para nos enviar seu teste você pode escolher uma das seguintes opções:
 
 - Compartilhar um diretório no GoogleDrive
 - Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br e hedcler@avecbrasil.com.br

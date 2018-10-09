@@ -26,7 +26,7 @@ Sua capacidade de analisar, projetar uma solução guiando-se pelas informaçõe
 - A explicação da solução (em arquivo separado em Markdown/Plain Text).
 - Documentação técnica com os diagramas elaborados.
 
-**Avaliação:** Para nos enviar seu código você pode escolher uma das seguintes opções:
+**Avaliação:** Para nos enviar seu teste você pode escolher uma das seguintes opções:
 
 - Compartilhar um diretório no GoogleDrive
 - Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br e hedcler@avecbrasil.com.br
