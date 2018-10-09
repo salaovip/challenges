@@ -88,6 +88,6 @@ Sua capacidade de analisar, e resolver um broblema lógico.
 **Avaliação:** Para nos enviar seu conteúdo você pode escolher uma das seguintes opções:
 
 - Compartilhar um diretório no GoogleDrive
-- Enviar um email para victor@avecbrasil.com.br com cópia para bruna.marques@avecbrasil.com.br
+- Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br e hedcler@avecbrasil.com.br
 
 com os arquivos criados.
