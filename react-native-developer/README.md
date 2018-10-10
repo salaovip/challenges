@@ -1,4 +1,4 @@
-# Analista Funcional
+# ReactNative Developer
 
 Você foi contratado para desenvolver um aplicativo mobile (ReactNative) para exibir nóticias de um portal. Este aplicativo deve ter a funcionalidade de scroll infinito, carregando mais noticias a medida que a página é rolada.
 Para desenvolver este aplicativo é necessário utilizar as stacks citada abaixo, conforme determinado pelo cliente.
