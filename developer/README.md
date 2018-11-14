@@ -1,8 +1,8 @@
 # Desafio Lógico - Desenvolvedor
 
-Considere uma matrix onde cada celula contem sempre 0 ou 1. Qualquer cécula que contenha 1 é chamada de célula preenchida. Podemos assumir que 2 célular estão conectadas se qualquer célula adjacente, vertical, horizontal ou diagonalmente estão preenchidas também. 
+Considere uma matrix onde cada célula contem sempre 0 ou 1. Qualquer células que contenha 1 é chamada de célula preenchida. Podemos assumir que 2 células estão conectadas se qualquer célula adjacente, vertical, horizontal ou diagonalmente estão preenchidas também. 
 
-Na matriz a seguir, por exemplo, todas as célular preenchidas com X estão conectadas a célula preenchida com Y:
+Na matriz a seguir, por exemplo, todas as células preenchidas com X estão conectadas a célula preenchida com Y:
 
 	X X X
 	X Y X
@@ -12,7 +12,7 @@ Se uma ou mais células preenchidas estiverem conectadas, elas formam uma regiã
 
 Dada uma matrix _n x m_ encontre e exiba o número de células na maior região da matriz. Observe que pode haver mais de uma região na matriz.
 
-Por exemplo, existem duas regiões na seguinte matrix 3 x 3. A maior região no canto superior esquerdo contem 3 célular. A menor região no canto inferior direito contém 1 célula.
+Por exemplo, existem duas regiões na seguinte matrix 3 x 3. A maior região no canto superior esquerdo contem 3 células. A menor região no canto inferior direito contém 1 célula.
 
 	1 1 0
 	1 0 0
@@ -75,7 +75,7 @@ O diagrama abaixo mostra duas regiões da matriz; para cada região, as células
 	0 0 X 0     0 0 1 0
 	1 0 0 0     X 0 0 0
 
-A primeira região contém 5 célular e a segunda região contem 1 célula. Precisamos exibir o número de célular da maior região.
+A primeira região contém 5 células e a segunda região contem 1 célula. Precisamos exibir o número de células da maior região.
 
 
 
