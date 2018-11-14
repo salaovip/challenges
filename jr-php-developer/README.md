@@ -12,9 +12,9 @@ Você deve consultar a API no seguinte endereço: https://content.guardianapis.c
 O parâmetro `page-size` define o número de itens por página. Ele deve ser alterado conforme escolha do usuário, como disposto no arquivo de template.
 
 1. Você deve exibir uma lista com:
-	a. Nome da seção
-	b. Título da notícia
-	c. Data de publicação (no formato pt-br [dd/mm/yyyy hh:ii])
+	- Nome da seção
+	- Título da notícia
+	- Data de publicação (no formato pt-br [dd/mm/yyyy hh:ii])
 
 2. Você deve construir os links de paginação que deverão carregar as respectivas páginas
 
