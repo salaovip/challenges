@@ -33,6 +33,6 @@ Sua capacidade de analisar e projetar uma solução utilizando a linguagem PHP.
 **Avaliação:** Para nos enviar seu teste você pode escolher uma das seguintes opções:
 
 - Compartilhar um diretório no GoogleDrive
-- Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br e hedcler@avecbrasil.com.br
+- Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br, hedcler@avecbrasil.com.br e jacqueline.mello@avecbrasil.com.br
 
 com os arquivos criados.
