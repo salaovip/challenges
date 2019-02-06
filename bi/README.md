@@ -37,6 +37,6 @@ Sua capacidade de organizar e analisar os dados, a quantidade de informações q
 
 - Compartilhar um diretório no GoogleDrive
 
-- Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br e hedcler@avecbrasil.com.br
+- Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br, hedcler@avecbrasil.com.br e jacqueline.mello@avecbrasil.com.br
 
 com os documentos criados.
