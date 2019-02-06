@@ -26,6 +26,6 @@ Seus conhecimentos em React e ReactNative, sua capacidade de analisar e projetar
 **Avaliação:** Para nos enviar seu teste você pode escolher uma das seguintes opções:
 
 - Compartilhar um diretório no GoogleDrive
-- Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br, hedcler@avecbrasil.com.br e lucas.silva@avecbrasil.com.br
+- Enviar um email para bruna.marques@avecbrasil.com.br copiando victor@avecbrasil.com.br, hedcler@avecbrasil.com.br, lucas.silva@avecbrasil.com.br e jacqueline.mello@avecbrasil.com.br
 
 com o conteúdo do seu teste.
